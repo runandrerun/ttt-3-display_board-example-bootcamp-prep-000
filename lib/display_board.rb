@@ -7,3 +7,5 @@ def display_board
   print "-----------"
   print "   |   |   "   
 end
+
+display_board
