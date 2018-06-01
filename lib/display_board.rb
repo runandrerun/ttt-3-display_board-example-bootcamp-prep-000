@@ -8,5 +8,3 @@ def display_board
   print "\n-----------\n"
   print "   " + "|" + "   " + "|" + "   "
 end
-
-display_board
