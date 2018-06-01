@@ -2,10 +2,10 @@
 
   
 def display_board  
-  print "   " + "|" + "   " + "|" + "   "
-  print "\n-----------\n"
-  print "   " + "|" + "   " + "|" + "   "
-  print "\n-----------\n"
-  print "   " + "|" + "   " + "|" + "   "
+  print "   |   |   
+-----------
+   |   |   
+-----------
+   |   |   
   puts "A Tic Tac Toe Board\n"
 end
