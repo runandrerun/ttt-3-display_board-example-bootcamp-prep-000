@@ -3,9 +3,9 @@
   
 def display_board  
   print "   |   |   
-\n-----------\n
-   |   |   
-\n-----------\n
-   |   |   "
-  puts "A Tic Tac Toe Board\n"
+        \n-----------\n
+            |   |   
+        \n-----------\n
+            |   |   "
+
 end
