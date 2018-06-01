@@ -4,10 +4,10 @@
 def display_board  
   puts "A Tic Tac Toe Board"
   print "   " + "|" + "   " + "|" + "   \n"
-  puts "-----------\n"
-  puts "   " + "|" + "   " + "|" + "   "
-  puts "-----------"
-  puts "   " + "|" + "   " + "|" + "   "
+  print "\n-----------\n"
+  print "   " + "|" + "   " + "|" + "   \n"
+  print "\n-----------\n"
+  print "   " + "|" + "   " + "|" + "   \n"
 end
 
 display_board
