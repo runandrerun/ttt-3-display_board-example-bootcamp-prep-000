@@ -3,11 +3,11 @@
   
 def display_board  
   puts "A Tic Tac Toe Board"
-  print "   " + "|" + "   " + "|" + "   \n"
+  print "   " + "|" + "   " + "|" + "   "
   print "\n-----------\n"
-  print "   " + "|" + "   " + "|" + "   \n"
+  print "   " + "|" + "   " + "|" + "   "
   print "\n-----------\n"
-  print "   " + "|" + "   " + "|" + "   \n"
+  print "   " + "|" + "   " + "|" + "   "
 end
 
 display_board
